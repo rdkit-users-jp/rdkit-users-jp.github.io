@@ -5,10 +5,10 @@ RDKit のユーザーであれば、どなたでも参加することが可能�
 ## コミュニケーションツール
 
 ### Slack
-- https://slackin-ojhaoyxrak.now.sh/
+- [https://slackin-ojhaoyxrak.now.sh/](https://slackin-ojhaoyxrak.now.sh/)
 
 ### Maling list
-- https://groups.google.com/forum/#!forum/rdkit-users-jp/
+- [https://groups.google.com/forum/#!forum/rdkit-users-jp/](https://groups.google.com/forum/#!forum/rdkit-users-jp/)
 
 ### Twitter
 - hash_tag: [#rdkitjp](https://twitter.com/search?f=tweets&q=%23rdkitjp)
