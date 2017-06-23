@@ -1,5 +1,5 @@
 ## rdkit-users-jp
-rdkit-users-jp は [RDKit](http://www.rdkit.org/) の日本ユーザー会です。  
+rdkit-users-jp は [RDKit](http://www.rdkit.org/) の日本ユーザー会です。  
 RDKit のユーザーであれば、どなたでも参加することが可能です。
 
 ## コミュニケーションツール
