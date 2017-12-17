@@ -5,8 +5,7 @@ RDKit のユーザーであれば、どなたでも参加することが可能�
 ## コミュニケーションツール
 
 ### Slack
-- [https://slackin-ojhaoyxrak.now.sh/](https://slackin-ojhaoyxrak.now.sh/)
-
+- [Join Slack](https://join.slack.com/t/rdkit-users-jp/shared_invite/enQtMjg3ODU1Mzk3OTg3LTJhNmQ1ODM3NDIzNTQyZGI5MzliZDg0MjA1ZGZlNGMyNTA0NThiZDcxMTQ1MjNhMzEwYzI3MDA3OTUzOGU2MzY)
 ### Maling list
 - [https://groups.google.com/forum/#!forum/rdkit-users-jp/](https://groups.google.com/forum/#!forum/rdkit-users-jp/)
 
