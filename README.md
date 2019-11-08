@@ -11,7 +11,7 @@ TransifexにてRDKitのドキュメントを翻訳しています。
 ## コミュニケーションツール
 
 ### Slack（おすすめ）
-- [Join Slack](https://join.slack.com/t/rdkit-users-jp/shared_invite/enQtMjg3ODU1Mzk3OTg3LTJhNmQ1ODM3NDIzNTQyZGI5MzliZDg0MjA1ZGZlNGMyNTA0NThiZDcxMTQ1MjNhMzEwYzI3MDA3OTUzOGU2MzY)
+- [Join Slack](https://join.slack.com/t/rdkit-users-jp/shared_invite/enQtMjg3ODU1Mzk3OTg3LWQ0MWRkMWZlOTIyYmViMTQ2NzQwYWYyYjExZjRmYzIxYTM0MWU3YzVhMDZjNzhlNWJiNGVlMzlkOTY5MWJhZjA)
 
 ### Maling list
 - [https://groups.google.com/forum/#!forum/rdkit-users-jp/](https://groups.google.com/forum/#!forum/rdkit-users-jp/)
