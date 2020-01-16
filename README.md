@@ -2,12 +2,6 @@
 [rdkit-users.jp](http://rdkit-users.jp) は [RDKit](http://www.rdkit.org/) の日本ユーザー会です。  
 RDKit のユーザーであれば、どなたでも参加することが可能です。
 
-## 公式ドキュメントの翻訳
-
-TransifexにてRDKitのドキュメントを翻訳しています。
-
-- [https://www.transifex.com/rdkit-users-jp/document-translation/](https://www.transifex.com/rdkit-users-jp/document-translation/)
-
 ## コミュニケーションツール
 
 ### Slack（おすすめ）
@@ -18,3 +12,14 @@ TransifexにてRDKitのドキュメントを翻訳しています。
 
 ### Twitter
 - hash_tag: [#rdkitjp](https://twitter.com/search?f=tweets&q=%23rdkitjp)
+
+## UGM JP 2020
+RDKit User Group Meeting Japan ( UGM JP ) を開催します。  
+詳細な情報は追って告知予定です。  
+
+- 開催予定日：2020年6月10日
+- 会場：東京都内
+- 形式：参加者からの応募によるトークセッションとポスターセッションを予定
+
+### 本家 UGM の情報
+- [UGM 2019](https://github.com/rdkit/UGM_2019)
