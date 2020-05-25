@@ -14,13 +14,8 @@ RDKit のユーザーであれば、どなたでも参加することが可能�
 - hash_tag: [#rdkitjp](https://twitter.com/search?f=tweets&q=%23rdkitjp)
 
 ## UGM JP 2020
-RDKit User Group Meeting Japan ( UGM JP ) を開催します。  
-詳細情報は公式 WEB サイトをご確認ください。  
+Unfortunately, due to the influence of COVID-19, which is spreading worldwide, We have decided to cancel the scheduled RDKit UGM JP 2020 this year. We deeply apologize to everyone who was planning to participate in RDKit UGM JP 2020.
 
-- 開催予定日：2020年6月10日
-- 会場：東京工業大学 田町キャンパス CIC
-- 形式：参加者からの応募によるトークセッションとポスターセッションを予定
-- WEB サイト：[http://rdkit-users.jp/UGMJP2020/](http://rdkit-users.jp/UGMJP2020/)
 
 ### 本家 UGM の情報
 - [UGM 2019](https://github.com/rdkit/UGM_2019)
