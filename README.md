@@ -1,5 +1,5 @@
 ## rdkit-users-jp
-[rdkit-users.jp](http://rdkit-users.jp) は [RDKit](http://www.rdkit.org/) の日本ユーザー会です。  
+[rdkit-users.jp](https://rdkit-users.jp/) は [RDKit](http://www.rdkit.org/) の日本ユーザー会です。  
 RDKit のユーザーであれば、どなたでも参加することが可能です。
 
 ## コミュニケーションツール
@@ -12,10 +12,3 @@ RDKit のユーザーであれば、どなたでも参加することが可能�
 
 ### Twitter
 - hash_tag: [#rdkitjp](https://twitter.com/search?f=tweets&q=%23rdkitjp)
-
-## UGM JP 2020
-Unfortunately, due to the influence of COVID-19, which is spreading worldwide, We have decided to cancel the scheduled RDKit UGM JP 2020 this year. We deeply apologize to everyone who was planning to participate in RDKit UGM JP 2020.
-
-
-### 本家 UGM の情報
-- [UGM 2019](https://github.com/rdkit/UGM_2019)
