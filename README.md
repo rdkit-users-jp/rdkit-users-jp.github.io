@@ -12,3 +12,6 @@ RDKit のユーザーであれば、どなたでも参加することが可能�
 
 ### Twitter
 - hash_tag: [#rdkitjp](https://twitter.com/search?f=tweets&q=%23rdkitjp)
+
+## ドキュメント
+- [RDKit 2022.09.1 がリリースされました](docs/release-2022-09-1)
