@@ -4,7 +4,10 @@ RDKit のユーザーであれば、どなたでも参加することが可能�
 
 ## コミュニケーションツール
 
-### Slack（おすすめ）
+### Discord（現在はこちらを推奨）
+[招待リンク](https://discord.com/invite/pQa83YRKpe)
+
+### Slack
 - [Join Slack](https://join.slack.com/t/rdkit-users-jp/shared_invite/enQtMjg3ODU1Mzk3OTg3LWQ0MWRkMWZlOTIyYmViMTQ2NzQwYWYyYjExZjRmYzIxYTM0MWU3YzVhMDZjNzhlNWJiNGVlMzlkOTY5MWJhZjA)
 
 ### Maling list
